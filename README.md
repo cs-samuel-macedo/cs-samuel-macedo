@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning JavaScript and its frameworks
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me: samuel.ferreira@accenture.com
+- 📫 How to reach me: samuel.m.ferreira@accenture.com or samuel.m.ferreira@concrete.com.br
 
 <!---
 cs-samuel-macedo/cs-samuel-macedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
